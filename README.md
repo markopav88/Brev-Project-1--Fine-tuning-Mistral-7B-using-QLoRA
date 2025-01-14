@@ -40,4 +40,30 @@ Large Language Models (LLMs) like Mistral 7B offer robust capabilities out-of-th
   - Support for non-GPU environments.
   - Development of a graphical user interface (GUI).
 
+### Context
+
+## Single Long Strings vs. Input-Output Pairs
+
+### Single Long Strings
+
+**Definition:**  
+Each training example is a continuous sequence of text without explicit separation between inputs and outputs. Essentially, the model learns from raw text data, predicting the next word or token in the sequence.
+
+**Example:**  
+A novel, article, or any extended piece of text where the model reads through the entire content as one uninterrupted stream.
+
+### Input-Output Pairs
+
+**Definition:**  
+Each training example consists of a distinct input and a corresponding desired output. This structure is common in tasks like question-answering, translation, or any application where a specific response is expected based on a given prompt.
+
+**Example:**
+
+- **Input:**  
+  "Translate the following sentence to French: 'Hello, how are you?'"
+
+- **Output:**  
+  "Bonjour, comment ça va?"
+
+
 
