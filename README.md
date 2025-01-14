@@ -6,7 +6,7 @@ Fine-Tuning Mistral 7B Using QLoRA & also personal data(notebooks, journals, per
 
 ### **1. Purpose**
 
-To provide users with a streamlined, cost-effective method for fine-tuning the Mistral 7B language model using QLoRA (Quantized Low-Rank Adaptation). This process leverages quantization and LoRA techniques to optimize computational resources while enhancing model performance on specific datasets.
+To provide users with a streamlined, cost-effective method for fine-tuning the Mistral 7B language model using QLoRA (Quantized Low-Rank Adaptation). This process leverages quantization and LoRA techniques to optimize computational resources while enhancing model performance on specific datasets. Here this was done using NVIDIAS BREV platform to aggregate the GPU power needed to train and fine tune Mistral 7B on my data.
 
 ---
 
@@ -25,20 +25,6 @@ Large Language Models (LLMs) like Mistral 7B offer robust capabilities out-of-th
   - Provide comprehensive guidance to handle common issues (e.g., OutOfMemory errors).
 
 ---
-
-### **4. Scope**
-
-- **In-Scope:**
-  - Fine-tuning Mistral 7B using QLoRA.
-  - Utilizing Hugging Face’s PEFT library and related tools.
-  - Implementing 4-bit quantization with `bitsandbytes`.
-  - Integrating Weights & Biases for training metrics tracking.
-  - Ensuring compatibility with GPU environments (e.g., Brev.dev instances).
-
-- **Out-of-Scope:**
-  - Fine-tuning models other than Mistral 7B.
-  - Support for non-GPU environments.
-  - Development of a graphical user interface (GUI).
 
 ## Context
 # In the example in which I used my own personal data from my exported notes(not published). This is a example of a "Single Long String".
