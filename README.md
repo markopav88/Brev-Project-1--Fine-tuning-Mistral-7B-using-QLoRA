@@ -6,7 +6,7 @@ Fine-Tuning Mistral 7B Using QLoRA & also personal data(notebooks, journals, per
 
 ### **1. Purpose**
 
-To provide users with a streamlined, cost-effective method for fine-tuning the Mistral 7B language model using QLoRA (Quantized Low-Rank Adaptation). This process leverages quantization and LoRA techniques to optimize computational resources while enhancing model performance on specific datasets. Here this was done using NVIDIAS BREV platform to aggregate the GPU power needed to train and fine tune Mistral 7B on my data.
+To provide users with a streamlined, cost-effective method for fine-tuning the Mistral 7B language model using QLoRA (Quantized Low-Rank Adaptation). This process leverages quantization and LoRA techniques to optimize computational resources while enhancing model performance on specific datasets. Here this was done using NVIDIAS BREV platform to aggregate the GPU power needed to train and fine tune Mistral 7B on personal data. Brev is used to train and deploy the ML model on the cloud.
 
 ---
 
