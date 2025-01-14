@@ -1,6 +1,6 @@
 
 ### **Title:**  
-Fine-Tuning Mistral 7B Using QLoRA 
+Fine-Tuning Mistral 7B Using QLoRA & also personal data(notebooks, journals, personal memos, etc)
 
 ---
 
