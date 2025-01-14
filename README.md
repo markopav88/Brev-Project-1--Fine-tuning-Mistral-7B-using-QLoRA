@@ -40,9 +40,9 @@ Large Language Models (LLMs) like Mistral 7B offer robust capabilities out-of-th
   - Support for non-GPU environments.
   - Development of a graphical user interface (GUI).
 
-### Context
-
-## Single Long Strings vs. Input-Output Pairs
+## Context
+# In the example in which I used my own personal data from my exported notes(not published). This is a example of a "Single Long String".
+### Single Long Strings vs. Input-Output Pairs
 
 ### Single Long Strings
 
